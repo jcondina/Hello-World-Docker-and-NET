@@ -29,7 +29,7 @@ This is a test version. The code has been tested and works fine, at least in a W
 
 ## Authors
 
-* **Juan I. Condina** - (https://github.com/juanicondina)
+* **Juan I. Condina** - (https://github.com/jcondina)
 
 ## License
 
